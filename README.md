@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ivi9901/pd-binder.git/HEAD)
+
 This is the repository of the course on Functional Programming in
 Scala taught at the University Rey Juan Carlos. 
 
